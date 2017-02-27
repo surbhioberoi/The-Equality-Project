@@ -92,6 +92,7 @@ footer {
         font-size: 1em;
         .subtitle {
             font-size: 1em;
+            padding: 0 3px 0 3px;
         }
     }
     .mapid {
@@ -112,5 +113,8 @@ footer {
                 margin: 5%;
             }
         }
+    }
+    .buttons {
+      margin-bottom: 2%;
     }
 }
