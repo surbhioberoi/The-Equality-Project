@@ -1,0 +1,198 @@
+Country Id,Countries,samesex,equalLiteracy,freedomPress,censorship,trafficking
+AFG,Afghanistan,No,No,No,Yes,Yes
+ALB,Albania,No,No,Partial,Yes,No
+DZA,Algeria,No,No,No,Yes,No
+AND,Andorra,No,No,Yes,Yes,Yes
+AGO,Angola,No,No,No,Yes,Yes
+ATG,Antigua and Barbuda,No,No,Partial,Yes,Yes
+ARG,Argentina,Yes,Yes,Partial,Yes,No
+ARM,Armenia,No,Yes,No,Yes,No
+AUS,Australia,Yes,No,Yes,Yes,No
+AUT,Austria,No,No,Yes,Yes,No
+AZE,Azerbaijan,No,Yes,No,Yes,No
+BHS,Bahamas,No,No,Yes,Yes,No
+BHR,Bahrain,No,No,No,No,No
+BGD,Bangladesh,No,No,Partial,Yes,No
+BRB,Barbados,No,No,Yes,Yes,No
+BLR,Belarus,No,Yes,No,No,No
+BEL,Belgium,Yes,No,Yes,Yes,Yes
+BLZ,Belize,No,Yes,Yes,Yes,Yes
+BEN,Benin,No,No,Partial,Yes,Yes
+BTN,Bhutan,No,No,Partial,Yes,Yes
+BOL,Bolivia,No,No,Partial,Yes,No
+BIH,Bosnia and Herzegovina,No,No,Partial,Yes,No
+BWA,Botswana,No,Yes,Partial,Yes,No
+BRA,Brazil,Yes,Yes,Partial,Yes,No
+BRN,Brunei,No,No,No,Yes,No
+BGR,Bulgaria,No,Yes,Partial,Yes,No
+BFA,Burkina Faso,No,No,Partial,Yes,No
+BDI,Burundi,No,No,No,Yes,Yes
+CPV,Cape Verde,No,No,Yes,Yes,No
+KHM,Cambodia,No,No,No,Yes,Yes
+CMR,Cameroon,No,No,No,Yes,No
+CAN,Canada,Yes,No,Yes,Yes,No
+CAF,Central African Republic (CAR),No,No,No,Yes,No
+TCD,Chad,No,No,No,Yes,Yes
+CHL,Chile,No,Yes,Partial,Yes,No
+CHN,China,No,No,No,No,No
+COL,Colombia,Yes,Yes,Partial,Yes,No
+COM,Comoros,No,No,Partial,Yes,No
+COD,Democratic Republic of the Congo,No,No,No,Yes,No
+COG,Republic of the Congo,No,No,Partial,Yes,No
+CRI,Costa Rica,No,Yes,Yes,Yes,No
+CIV,Cote d'Ivoire,No,No,No,Yes,Yes
+HRV,Croatia,No,Yes,Partial,Yes,No
+CUB,Cuba,No,Yes,No,No,No
+CYP,Cyprus,No,Yes,Yes,Yes,No
+CZE,Czech Republic,No,Yes,Yes,Yes,No
+DNK,Denmark,Yes,Yes,Yes,Yes,No
+DJI,Djibouti,No,No,No,Yes,Yes
+DMA,Dominica,No,Yes,Yes,Yes,Yes
+DOM,Dominican Republic,No,Yes,Partial,Yes,No
+ECU,Ecuador,No,No,Partial,Yes,No
+EGY,Egypt,No,No,Partial,Yes,No
+SLV,El Salvador,No,No,Partial,Yes,No
+GNQ,Equatorial Guinea,No,No,No,Yes,Yes
+ERI,Eritrea,No,No,No,Yes,Yes
+EST,Estonia,Partial,Yes,Yes,Yes,No
+ETH,Ethiopia,No,No,No,No,Yes
+FJI,Fiji,No,No,Partial,Yes,Yes
+FIN,Finland,Yes,Yes,Yes,Yes,No
+FRA,France,Yes,Yes,Yes,Yes,No
+GAB,Gabon,No,No,No,Yes,No
+GMB,Gambia,No,No,No,Yes,No
+GEO,Georgia,No,Yes,Partial,Yes,Yes
+DEU,Germany,No,Yes,Yes,Yes,No
+GHA,Ghana,No,No,Yes,Yes,Yes
+GRC,Greece,No,No,Yes,Yes,No
+GRD,Grenada,No,Yes,Yes,Yes,No
+GTM,Guatemala,No,No,Partial,Yes,No
+GIN,Guinea,No,No,No,Yes,Yes
+GNB,Guinea-Bissau,No,Yes,Partial,Yes,No
+GUY,Guyana,No,No,Partial,Yes,No
+HTI,Haiti,No,No,Partial,Yes,No
+HND,Honduras,No,Yes,No,Yes,No
+HUN,Hungary,No,Yes,Partial,Yes,No
+ISL,Iceland,Yes,Yes,Yes,Yes,Yes
+IND,India,No,No,Partial,No,No
+IDN,Indonesia,No,No,Partial,Yes,Yes
+IRN,Iran,No,No,No,No,Yes
+IRQ,Iraq,No,No,No,Yes,Yes
+IRL,Ireland,Yes,Yes,Yes,Yes,No
+ISR,Israel,Partial,No,Yes,Yes,No
+ITA,Italy,Partial,Yes,Partial,Yes,No
+JAM,Jamaica,No,Yes,Yes,Yes,No
+JPN,Japan,No,No,Yes,Yes,No
+JOR,Jordan,No,No,No,Yes,No
+KAZ,Kazakhstan,No,Yes,No,Yes,No
+KEN,Kenya,No,No,Partial,Yes,No
+KIR,Kiribati,No,Yes,Yes,Yes,Yes
+CS-KM,Kosovo,No,No,Partial,Yes,Yes
+KWT,Kuwait,No,No,Partial,Yes,Yes
+KGZ,Kyrgyzstan,No,Yes,No,Yes,Yes
+LAO,Laos,No,No,No,Yes,Yes
+LVA,Latvia,No,Yes,Yes,Yes,No
+LBN,Lebanon,No,No,Partial,Yes,No
+LSO,Lesotho,No,Yes,Partial,Yes,No
+LBR,Liberia,No,No,Partial,Yes,Yes
+LBY,Libya,No,No,Partial,Yes,Yes
+LIE,Liechtenstein,No,Yes,Yes,Yes,Yes
+LTU,Lithuania,No,Yes,Yes,Yes,Yes
+LUX,Luxembourg,Yes,Yes,Yes,Yes,Yes
+MKD,Macedonia,No,No,Partial,Yes,Yes
+MDG,Madagascar,No,No,No,Yes,Yes
+MWI,Malawi,No,No,Partial,Yes,Yes
+MYS,Malaysia,No,No,No,Yes,No
+MDV,Maldives,No,Yes,Partial,Yes,No
+MLI,Mali,No,No,Yes,Yes,Yes
+MLT,Malta,Partial,Yes,Yes,Yes,Yes
+MHL,Marshall Islands,No,Yes,Yes,Yes,Yes
+MRT,Mauritania,No,No,Partial,Yes,No
+MUS,Mauritius,No,No,Yes,Yes,Yes
+MEX,Mexico,Partial,No,No,Yes,No
+FSM,Micronesia,No,No,Yes,Yes,Yes
+MDA,Moldova,No,Yes,Partial,Yes,No
+MCO,Monaco,No,Yes,Yes,Yes,Yes
+MNG,Mongolia,No,Yes,Partial,Yes,Yes
+MNE,Montenegro,No,No,Partial,Yes,Yes
+MAR,Morocco,No,No,No,Yes,No
+MOZ,Mozambique,No,No,Partial,Yes,No
+MMR,Myanmar (Burma),No,No,No,Yes,No
+NAM,Namibia,No,No,Partial,Yes,No
+NRU,Nauru,No,Yes,Yes,Yes,Yes
+NPL,Nepal,No,No,Partial,Yes,No
+NLD,Netherlands,Yes,Yes,Yes,Yes,Yes
+NZL,New Zealand,Yes,Yes,Yes,Yes,No
+NIC,Nicaragua,No,Yes,Partial,Yes,No
+NER,Niger,No,No,Partial,Yes,Yes
+NGA,Nigeria,No,No,Partial,Yes,No
+PRK,North Korea,No,Yes,No,No,No
+NOR,Norway,Yes,Yes,Yes,Yes,Yes
+OMN,Oman,No,No,No,Yes,Yes
+PAK,Pakistan,No,No,No,No,No
+PLW,Palau,No,Yes,Yes,Yes,Yes
+PSE,Palestine,No,Yes,No,Yes,Yes
+PAN,Panama,No,No,Partial,Yes,No
+PNG,Papua New Guinea,No,No,Yes,Yes,Yes
+PRY,Paraguay,No,No,Partial,Yes,No
+PER,Peru,No,No,Partial,Yes,No
+PHL,Philippines,No,Yes,Partial,Yes,No
+POL,Poland,No,Yes,Yes,Yes,Yes
+PRT,Portugal,Yes,No,Yes,Yes,Yes
+QAT,Qatar,No,Yes,No,Yes,No
+ROU,Romania,No,Yes,Partial,Yes,Yes
+RUS,Russia,No,Yes,No,No,No
+RWA,Rwanda,No,No,No,Yes,Yes
+KNA,Saint Kitts and Nevis,No,Yes,Yes,Yes,Yes
+LCA,Saint Lucia,No,No,Yes,Yes,Yes
+VCT,Saint Vincent and the Grenadines,No,Yes,Yes,Yes,No
+WSM,Samoa,No,Yes,Yes,Yes,No
+SMR,San Marino,No,No,Yes,Yes,Yes
+STP,Sao Tome and Principe,No,No,Yes,Yes,Yes
+SAU,Saudi Arabia,No,No,No,No,Yes
+SEN,Senegal,No,No,Partial,Yes,Yes
+SRB,Serbia,No,No,Partial,Yes,Yes
+SYC,Seychelles,No,Yes,Partial,Yes,Yes
+SLE,Sierra Leone,No,No,Partial,Yes,Yes
+SGP,Singapore,No,Yes,No,Yes,Yes
+SVK,Slovakia,No,Yes,Yes,Yes,Yes
+SVN,Slovenia,No,Yes,Yes,Yes,Yes
+SLB,Solomon Islands,No,No,Yes,Yes,Yes
+SOM,Somalia,No,No,No,Yes,Yes
+ZAF,South Africa,Yes,No,Partial,Yes,Yes
+KOR,South Korea,No,No,Partial,Yes,No
+SSD,South Sudan,No,No,Partial,Yes,Yes
+ESP,Spain,Yes,No,Yes,Yes,Yes
+LKA,Sri Lanka,No,No,No,Yes,No
+SDN,Sudan,No,No,No,No,Yes
+SUR,Suriname,No,No,Yes,Yes,Yes
+SWZ,Swaziland,No,Yes,No,Yes,Yes
+SWE,Sweden,Yes,Yes,Yes,Yes,Yes
+CHE,Switzerland,No,Yes,Yes,Yes,Yes
+SYR,Syria,No,No,No,No,Yes
+TWN,Taiwan,No,No,Yes,Yes,Yes
+TJK,Tajikistan,No,Yes,No,Yes,No
+TZA,Tanzania,No,No,Partial,Yes,Yes
+THA,Thailand,No,Yes,Partial,Yes,No
+TLS,Timor-Leste,No,No,Partial,Yes,Yes
+TGO,Togo,No,Yes,No,Yes,Yes
+TON,Tonga,No,Yes,Yes,Yes,Yes
+TTO,Trinidad and Tobago,No,Yes,Yes,Yes,No
+TUN,Tunisia,No,No,Partial,Yes,No
+TUR,Turkey,No,No,Partial,Yes,Yes
+TKM,Turkmenistan,No,Yes,No,No,Yes
+TUV,Tuvalu,No,Yes,Yes,Yes,Yes
+UGA,Uganda,No,No,Partial,Yes,Yes
+UKR,Ukraine,No,Yes,Partial,Yes,No
+ARE,United Arab Emirates (UAE),No,Yes,No,No,No
+GBR,United Kingdom (UK),Partial,Yes,Yes,No,Yes
+USA,United States of America (USA),Yes,No,Yes,No,Yes
+URY,Uruguay,Yes,Yes,Yes,Yes,No
+UZB,Uzbekistan,No,Yes,No,No,No
+VUT,Vanuatu,No,No,Yes,Yes,Yes
+VAT,Vatican City (Holy See),No,yes,Partial,Yes,Yes
+VEN,Venezuela,No,Yes,No,Yes,No
+VNM,Vietnam,No,No,No,No,No
+YEM,Yemen,No,No,No,Yes,No
+ZMB,Zambia,No,No,Partial,Yes,Yes
+ZWE,Zimbabwe,No,No,No,Yes,Yes
